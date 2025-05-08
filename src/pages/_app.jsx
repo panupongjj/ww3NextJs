@@ -3,6 +3,7 @@ import { Fragment } from 'react';
 import Layout from '@/components/layout';
 import Head from 'next/head';
 
+
 function App({ Component, pageProps }) {
   return (
     <Fragment>
